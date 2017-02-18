@@ -1,0 +1,21 @@
+{
+  "name": "udaff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexei Savca",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "epub-gen": "0.0.17",
+    "flatmap": "0.0.3",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "request": "^2.79.0"
+  }
+}
